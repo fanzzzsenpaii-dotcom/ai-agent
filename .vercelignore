@@ -1,0 +1,11 @@
+.git
+.expo
+.claude
+node_modules
+ios
+android
+.env
+*.orig.*
+.metro-health-check*
+npm-debug.*
+.DS_Store
